@@ -1,0 +1,22 @@
+FONTS 
+
+JetBrainsMono Nerd Font
+Material Icons Outlined
+Material Icons Round
+Iosevka Nerd Font
+
+
+Dependencies
+
+rofi
+polybar
+dunst
+networkmanager-dmenu
+light
+scrot
+alacritty
+xmonad
+xmonad-contrib
+picom
+pulseaudio
+copyq

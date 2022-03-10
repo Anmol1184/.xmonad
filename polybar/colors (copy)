@@ -1,0 +1,62 @@
+[color]
+bg = #282c34
+bg-alt = #4b5263
+fg = #abb2bf
+fg-alt = #5c6370
+
+
+cyan = #00e5ff
+pink = #f50057
+blue = #61afef
+blue-alt = #2d3643
+green = #98c379
+green-alt = #31383a
+orange = #ffb86c
+orange-alt = #3a3738
+purple = #c678dd
+purple-alt = #353142
+red = #e06c75
+red-alt = #373039
+yellow = #e5c07b
+yellow-alt = #37373a
+
+
+black = #000
+white = #FFF
+
+trans = #00000000
+semi-trans-black = #aa000000
+
+FOREGROUND = #D8DEE9
+BACKGROUND = #2E3440
+BLACK = #3B4252
+RED = #BF616A
+GREEN = #A3BE8C
+YELLOW = #EBCB8B
+BLUE = #81A1C1
+MAGENTA = #B48EAD
+CYAN = #88C0D0
+WHITE = #E5E9F0
+ALTBLACK = #4C566A
+ALTRED = #BF616A
+ALTGREEN = #A3BE8C
+ALTYELLOW = #EBCB8B
+ALTBLUE = #81A1C1
+ALTMAGENTA = #B48EAD
+ALTCYAN = #8FBCBB
+ALTWHITE = #ECEFF4
+
+## Copyright (C) 2020-2021 Aditya Shakya <adi1090x@gmail.com>
+## Everyone is permitted to copy and distribute copies of this file under GNU-GPL3
+
+;; _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+
+;; main colors
+background = #090A0B
+background-alt = #282828
+foreground = #E6DFE0
+foreground-alt = #808080
+primary = #BB553F
+
+;; _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
