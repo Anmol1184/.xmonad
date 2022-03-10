@@ -1,0 +1,7 @@
+
+xmonad.hs:35:13: warning: [-Wtabs]
+    Tab character found here, and in 269 further locations.
+    Please use spaces instead.
+   |
+35 | file_manager            = spawn "pcmanfm"
+   |             ^^^^
