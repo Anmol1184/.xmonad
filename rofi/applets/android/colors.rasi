@@ -19,4 +19,4 @@
  *
  */
 
-@import "../styles/material-dark/blue"
+@import "../styles/nord.rasi"
